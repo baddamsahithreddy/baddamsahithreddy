@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on full stack projects(full stack projects projects links)
+- 🔭 I’m currently working on [full stack projects](full stack projects projects links)
 
 - 🌱 I’m currently learning **python,html,css,react,bootstrap,python frameworks.**
 
