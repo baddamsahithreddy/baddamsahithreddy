@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm sahith reddy</h1>
 <h3 align="center">A passionate full stack web developer, data scienti.</h3>
 
-- 🔭 I’m currently working on **full stack projects.**
+- 🔭 I’m currently working on **full stack projects, data science.**
 
 - 🌱 I’m currently learning **python,html,css,react,bootstrap,python frameworks.**
 
-- 👯 I’m looking to collaborate on **a project on making a clone of the ecommerce gint amazon.**
+- 👯 I’m looking to collaborate on **a project on making a clone of the ecommerce gaint amazon.**
 
 - 🤝 I’m looking for help with **web development projects.**
 
