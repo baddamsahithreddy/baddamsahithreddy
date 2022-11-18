@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **python,html,css,react,bootstrap,python frameworks.**
 
-- 👯 I’m looking to collaborate on **a project on making a clone of the ecommerce gint amazon.**
+- 👯 I’m looking to collaborate on **a project on making a clone of the ecommerce gaint amazon.**
 
 - 🤝 I’m looking for help with **building a swiggy clone app for custumers, restaurents,delivery partners.**
 
