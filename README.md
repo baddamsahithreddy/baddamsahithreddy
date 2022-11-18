@@ -1,20 +1,23 @@
 <h1 align="center">Hi 👋, I'm sahith reddy</h1>
-<h3 align="center">A passionate full stack developer, data scientist.</h3>
+<h3 align="center">A passionate full stack web developer, data scientist.</h3>
+
+<p align="left"> <a href="https://twitter.com/sahith_baddam" target="blank"><img src="https://img.shields.io/twitter/follow/sahith_baddam?logo=twitter&style=for-the-badge" alt="sahith_baddam" /></a> </p>
 
 - 🔭 I’m currently working on **full stack projects.**
 
-- 🌱 I’m currently learning **python,html,css,reactjs,bootstrap,python frameworks.**
+- 🌱 I’m currently learning **python,html,css,react,bootstrap,python frameworks.**
 
-- 👯 I’m looking to collaborate on **a project on making a clone of the ecommerce gaint amazon.**
+- 👯 I’m looking to collaborate on **a project on making a clone of the ecommerce gint amazon.**
 
 - 🤝 I’m looking for help with **building a swiggy clone app for customers, resturents,delivery parteners.**
 
-- 👨‍💻 All of my projects are available at [----](----)
+- 👨‍💻 All of my projects are available at [sahithreddy.github.com](sahithreddy.github.com)
 
 - 📫 How to reach me **sahithreddybaddam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/sahith_baddam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahith_baddam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/baddamsahithreddy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/baddamsahithreddy/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/sahith_.reddy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sahith_.reddy/" height="30" width="40" /></a>
 </p>
