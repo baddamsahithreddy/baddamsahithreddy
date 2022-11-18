@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm sahith reddy</h1>
 <h3 align="center">A passionate full stack web developer, data scienti.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baddamsahithreddy&label=Profile%20views&color=0e75b6&style=flat" alt="baddamsahithreddy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baddamsahithreddy" alt="baddamsahithreddy" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [full stack projects](full stack projects projects links)
+- 🔭 I’m currently working on **full stack projects.**
 
 - 🌱 I’m currently learning **python,html,css,react,bootstrap,python frameworks.**
 
-- 🤝 I’m looking for help with **web development projects**
+- 👯 I’m looking to collaborate on **a project on making a clone of the ecommerce gint amazon.**
+
+- 🤝 I’m looking for help with **web development projects.**
 
 - 👨‍💻 All of my projects are available at [saithreddy.github.com](saithreddy.github.com)
 
