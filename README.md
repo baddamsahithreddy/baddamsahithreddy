@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **python,html,css,reactjs,bootstrap,python frameworks.**
 
-- 👯 I’m looking to collaborate on **a project on making a clone of the ecommerce gint amazon.**
+- 👯 I’m looking to collaborate on **a project on making a clone of the ecommerce gaint amazon.**
 
 - 🤝 I’m looking for help with **building a swiggy clone app for customers, resturents,delivery parteners.**
 
-- 👨‍💻 All of my projects are available at [saithreddy.github.com](saithreddy.github.com)
+- 👨‍💻 All of my projects are available at [----](----)
 
 - 📫 How to reach me **sahithreddybaddam@gmail.com**
 
