@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **full stack projects.**
 
-- 🌱 I’m currently learning **python,html,css,react,bootstrap,python frameworks.**
+- 🌱 I’m currently learning **python,html,css,reactjs,bootstrap,python frameworks.**
 
 - 👯 I’m looking to collaborate on **a project on making a clone of the ecommerce gint amazon.**
 
