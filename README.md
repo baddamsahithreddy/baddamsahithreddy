@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **a project on making a clone of the ecommerce gint amazon.**
 
-- 🤝 I’m looking for help with **building a swiggy clone app for customers, resturents,delivery parteners.**
+- 🤝 I’m looking for help with **building a swiggy clone app for custumers, restaurents,delivery partners.**
 
 - 👨‍💻 All of my projects are available at [sahithreddy.github.com](sahithreddy.github.com)
 
