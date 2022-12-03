@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **building a swiggy clone app for custumers, restaurents,delivery partners.**
 
-- 👨‍💻 All of my projects are available at [sahithreddy.github.com](sahithreddy.github.com)
+- 👨‍💻 All of my projects are available at [sahithreddy.github.io](sahithreddy.github.io)
 
 - 📫 How to reach me **sahithreddybaddam2002@gmail.com**
 
