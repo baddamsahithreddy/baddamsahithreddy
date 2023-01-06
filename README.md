@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on **full stack projects.**
 
-- 🌱 I’m currently learning **python,html,css,react,bootstrap,python frameworks.**
+- 🌱 I’m currently learning **python,html,css,bootstrap,python frameworks.**
 
-- 👯 I’m looking to collaborate on **a project on make a clone of the ecommerce gaint amazon.**
+<!--- 👯 I’m looking to collaborate on **a project on make a clone of the ecommerce gaint amazon.**-->
 
 - 🤝 I’m looking for help with **building a swiggy clone app for custumers, restaurents,delivery partners.**
 
 - 👨‍💻 All of my projects are available at [sahithreddy.github.io](sahithreddy.github.io)
 
-- 📫 How to reach me **sahithreddybaddam2002@gmail.com**
+- 📫 How to reach me: **sahithreddybaddam2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
