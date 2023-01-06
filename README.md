@@ -51,11 +51,6 @@
 
 
 
-
-
-🔭 I’m currently working on full stack projects.<br>🌱 I’m currently learning python,html,css,bootstrap,python frameworks.<br>🤝 I’m looking for help with building a swiggy clone app for custumers,<br>      restaurents, delivery partners.<br>👨‍💻 All of my projects are available at sahithreddy.github.io<br>📫 How to reach me: sahithreddybaddam2002@gmail.com
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sahithreddy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sahith_.reddy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/baddamsahithreddy) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@eeeeeeeeeeee) 
 
