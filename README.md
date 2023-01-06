@@ -59,11 +59,3 @@
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/eeeeeeeeeeeee)
-  
-  
-  <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sahithreddy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sahithreddy" /></a></p><br><br>
-
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
