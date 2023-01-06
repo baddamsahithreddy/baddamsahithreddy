@@ -1,6 +1,10 @@
 <h1 align="center">Hey Everyone! I'm sahith reddy</h1>
 <h3 align="center">A passionate full stack developer, software developer.</h3>
 
+
+
+
+# 💫 About Me:
 - 🔭 I’m currently working on **full stack projects.**
 - 🌱 I’m currently learning **python,html,css,bootstrap,python frameworks.**
 - 🤝 I’m looking for help with **building a swiggy clone app for custumers,        
@@ -48,7 +52,7 @@
 
 
 
-# 💫 About Me:
+
 🔭 I’m currently working on full stack projects.<br>🌱 I’m currently learning python,html,css,bootstrap,python frameworks.<br>🤝 I’m looking for help with building a swiggy clone app for custumers,<br>      restaurents, delivery partners.<br>👨‍💻 All of my projects are available at sahithreddy.github.io<br>📫 How to reach me: sahithreddybaddam2002@gmail.com
 
 
