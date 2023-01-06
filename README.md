@@ -7,7 +7,8 @@
 
 <!--- 👯 I’m looking to collaborate on **a project on make a clone of the ecommerce gaint amazon.**-->
 
-- 🤝 I’m looking for help with **building a swiggy clone app for custumers, restaurents,delivery partners.**
+- 🤝 I’m looking for help with **building a swiggy clone app for custumers,        
+        restaurents,delivery partners.**
 
 - 👨‍💻 All of my projects are available at [sahithreddy.github.io](sahithreddy.github.io)
 
