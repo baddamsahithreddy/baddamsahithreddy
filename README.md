@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm sahith reddy</h1>
+<h1 align="center">Hey Everyone! I'm sahith reddy</h1>
 <h3 align="center">A passionate full stack developer, software developer.</h3>
 
 - 🔭 I’m currently working on **full stack projects.**
