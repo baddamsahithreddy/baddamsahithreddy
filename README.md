@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer, software developer.</h3>
 
 
---
+---
 [![](https://visitcount.itsvg.in/api?id=baddamsahithreddy&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
