@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone! I'm sahith reddy</h1>
-<h3 align="center">A passionate full stack developer, software developer.</h3>
+<h3 align="center">A passionate full stack developer.</h3>
 
 
 
