@@ -5,7 +5,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=baddamsahithreddy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 💫 About Me:
+#  About Me:
 - 🔭 I’m currently working on **full stack projects.**
 - 🌱 I’m currently learning **python,html,css,bootstrap,python frameworks.**
 - 🤝 I’m looking for help with **building a swiggy clone app for custumers,        
