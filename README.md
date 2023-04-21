@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **python,html,css,bootstrap,python frameworks.**
 - 🤝 I’m looking for help with **building a swiggy clone app for custumers,        
         restaurents,delivery partners.**
-- 👨‍💻 All of my projects are available at [sahithreddy.github.io](sahithreddy.github.io)
+- 👨‍💻 All of my projects are available at [baddamsahithreddy.in](baddamsahithreddy.in)
 - 📫 How to reach me: **sahithreddybaddam2002@gmail.com**
 
 
