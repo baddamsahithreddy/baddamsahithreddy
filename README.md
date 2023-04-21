@@ -7,7 +7,7 @@
 
 #  About Me:
 - 🔭 I’m currently working on **full stack projects.**
-- 🌱 I’m currently learning **python,html,css,bootstrap,python frameworks.**
+- 🌱 I’m currently learning **python & its frameworks,html,css,bootstrap**
 - 🤝 I’m looking for help with **building a swiggy clone app for custumers,        
         restaurents,delivery partners.**
 - 👨‍💻 All of my projects are available at [baddamsahithreddy.in](baddamsahithreddy.in)
