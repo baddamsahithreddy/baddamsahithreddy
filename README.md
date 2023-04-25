@@ -8,8 +8,7 @@
 #  About Me:
 - 🔭 I’m currently working on **full stack projects.**
 - 🌱 I’m currently learning **python & its frameworks,html,css,bootstrap**
-- 🤝 I’m looking for help with **building a swiggy clone app for custumers,        
-        restaurents,delivery partners.**
+- 🤝 I’m looking for help with ** mern stack projects**
 - 👨‍💻 All of my projects are available at [baddamsahithreddy.in](baddamsahithreddy.in)
 - 📫 How to reach me: **sahithreddybaddam2002@gmail.com**
 
