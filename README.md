@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **full stack projects.**
 - 🌱 I’m currently learning **python & its frameworks,html,css,bootstrap**
 - 🤝 I’m looking for help with ** mern stack projects**
-- 👨‍💻 All of my projects are available at [baddamsahithreddy.in](baddamsahithreddy.in)
+- 👨‍💻 All of my projects are available at [(https://github.com/baddamsahithreddy)]((https://github.com/baddamsahithreddy))
 - 📫 How to reach me: **sahithreddybaddam2002@gmail.com**
 
 
