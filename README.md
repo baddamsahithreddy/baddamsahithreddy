@@ -8,7 +8,7 @@
 #  About Me:
 - 🔭 I’m currently working on **full stack projects.**
 - 🌱 I’m currently learning **python & its frameworks,html,css,bootstrap**
-- 🤝 My personal portfolio ** https://sahithreddybaddam.netlify.app/**
+- 🤝 My personal portfolio ** https://baddamsahithreddy.in/**
 - 👨‍💻 All of my projects are available at (https://github.com/baddamsahithreddy)
 - 📫 How to reach me: **sahithreddybaddam2002@gmail.com**
 
